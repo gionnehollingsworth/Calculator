@@ -1,18 +1,17 @@
-# Calculator
+# Calculator Layout
 
-#Table of Contents
+# Table of Contents
 * Description
 * Technology Used
 * Author
 
-#Description
-*This was one of the first projects with Generation that you can build on using JavaScript.
+# Description
+* This was one of my first projects with Generation that you can build on using JavaScript.
 
-#Technology Used
+# Technology Used
 * HTML
 * CSS
 
-#Author
 # Author
 * Gionne Hollingsworth
 
